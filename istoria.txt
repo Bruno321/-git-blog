@@ -3,3 +3,9 @@ gola golas ahsiutoria si
 y agrege una linea mas
 
 Mañana nos enfocaremos en su vida laboral
+si yo quiero que me envien un mensaje secreto yo creo una llave publica y una privada
+lo que yo cifre con la llave publica solo puede ser abierto por la privada.
+Mandar la llave publica para que el mensaje quede encriptado y solo con mi llave privada 
+se puede desifrar, LLAVE SSH ES POR PERSONA, 
+SI TENGO 3 LAPTOPS NECESITO 3 LLAVES COENCATDAS AL REPO
+UNA LLAVE PUBLICA Y PRIVADA POR REPOSITORIO
