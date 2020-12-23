@@ -4,6 +4,8 @@ y agrege una linea mas
 
 master 1
 
+master 2
+
 Mañana nos enfocaremos en su vida laboral
 si yo quiero que me envien un mensaje secreto yo creo una llave publica y una privada
 lo que yo cifre con la llave publica solo puede ser abierto por la privada.
